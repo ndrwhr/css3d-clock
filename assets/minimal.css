@@ -152,7 +152,7 @@ div.context p.description {
   text-align: left;
 }
 
-div.context.less p.description {
+div.context.less .description {
   display: none;
 }
 
